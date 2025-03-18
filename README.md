@@ -2,6 +2,9 @@
 
 A React application that demonstrates integration between Auth0 authentication and Notion as a custom identity provider.
 
+🔗 https://developers.notion.com/reference/create-a-token
+🔗 https://developers.notion.com/docs/authorization#set-up-the-auth-flow-for-a-public-integration
+
 ## Project Overview
 
 This project showcases how to:
